@@ -1,5 +1,5 @@
-# PKCN_release (The codes will be uploaded after the submitted paper is accepted)
-
+# PKCN_release 
+### (The codes will be uploaded after the submitted paper is accepted)
 Part-attentive Kinematic Chain-based Regressor for 3D Human Modeling
 
 
