@@ -12,8 +12,6 @@ The Checkpoint of the proposed method is shared in [Google Drive](https://drive.
 
 <p align="center"><img src='fig/CrowdPose.jpg'></p>
 
-</hr>
-
 <h3 align="center">3DPW Dataset</h3>
 
 <p align="center"><img src='fig/3DPW.jpg'></p>
