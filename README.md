@@ -4,7 +4,7 @@
 
 ## Checkpoint
 
-The Checkpoint of the proposed method is shared in [Google Drive](https://drive.google.com/drive/folders/12FSyb2jw9teOawfsUu-LC_mRzqbY667v?usp=sharing).
+The checkpoints of the proposed method are shared in [Google Drive](https://drive.google.com/drive/folders/12FSyb2jw9teOawfsUu-LC_mRzqbY667v?usp=sharing).
 
 ## Qualitative Results 
 

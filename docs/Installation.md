@@ -8,7 +8,7 @@ conda activate PCKN
 conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
 ```
 
-PyTorch3D library is installed as https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md
+PyTorch3D library is installed according to the instructions in https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md
 
 ```python
 conda install -c fvcore -c iopath -c conda-forge fvcore iopath
