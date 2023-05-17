@@ -1,17 +1,21 @@
-# PKCN_release 
-### (The codes will be uploaded after the submitted paper is accepted)
-Part-attentive Kinematic Chain-based Regressor for 3D Human Modeling
+<h2 align="center">Part-attentive Kinematic Chain-based Regressor for 3D Human Modeling</h2>
 
+<h4 align="center">(The codes will be uploaded after the submitted paper is accepted)</h4>
 
+## Checkpoint
 
-### Results of 3D human modeling on CrowdPose. From left to right: input images, PARE results, ROMP results, and PKCN results (ours). 
+The Checkpoint of the proposed method is shared in [Google Drive](https://drive.google.com/drive/folders/12FSyb2jw9teOawfsUu-LC_mRzqbY667v?usp=sharing).
+
+## Quantitative Results 
+
+<h4 align="center">CrowdPose Dataset</h4>
 
 <p align="center"><img src='fig/CrowdPose.jpg'></p>
 
-
-
 </hr>
 
-### Results of 3D human modeling on 3DPW. From left to right: input images, PARE results, ROMP results, and PKCN results (ours). 
+<h4 align="center">3DPW Dataset</h4>
 
 <p align="center"><img src='fig/3DPW.jpg'></p>
+
+### 
