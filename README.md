@@ -6,15 +6,15 @@
 
 The Checkpoint of the proposed method is shared in [Google Drive](https://drive.google.com/drive/folders/12FSyb2jw9teOawfsUu-LC_mRzqbY667v?usp=sharing).
 
-## Quantitative Results 
+## Qualitative Results 
 
-<h4 align="center">CrowdPose Dataset</h4>
+<h3 align="center">CrowdPose Dataset</h3>
 
 <p align="center"><img src='fig/CrowdPose.jpg'></p>
 
 </hr>
 
-<h4 align="center">3DPW Dataset</h4>
+<h3 align="center">3DPW Dataset</h3>
 
 <p align="center"><img src='fig/3DPW.jpg'></p>
 
